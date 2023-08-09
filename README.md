@@ -4,7 +4,7 @@ PlasmoVoice installation Assistant (client). The creator is not responsible for 
 
 ![036c31109a55ea55e9646bf0c79cf377-1920x1080](https://github.com/Zarlong/PlasmoVoice_LC/assets/79041818/5f4a9fe7-e6d6-4ad4-b384-002b2831a2d7)
 
-P.s. Все инструкции можно найти в файле README.md
+**P.s. Все инструкции можно найти в файле README.md**
 
 Чтобы установить PlasmoVoice к себе, вам необходимо выбрать один из загрузчиков модов: forge/fabric
 
