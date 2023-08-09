@@ -1,6 +1,8 @@
 # PlasmoVoice_LC
 PlasmoVoice installation Assistant (client). The creator is not responsible for these files, because he is not their developer, but all files have been checked by Kaspersky anti-virus.
 
+https://wampi.ru/image/RIDmXua
+
 Чтобы установить PlasmoVoice к себе, вам необходимо выбрать один из загрузчиков модов: forge/fabric
 
 В нашем релизе есть как версия для fabric, так и версиия для forge.
